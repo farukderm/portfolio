@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [Faruk Dermenci]
 
-## Getting Started
+Portföyüme hoş geldiniz! Bu proje, Full Stack Geliştirici olarak sahip olduğum beceri ve deneyimleri sergileyen kişisel bir portföy sitesidir. Bu portföyde, üzerinde çalıştığım projeleri keşfedebilir, benimle iletişime geçebilir ve yazılım geliştirme yolculuğum hakkında daha fazla bilgi edinebilirsiniz.
 
-First, run the development server:
+## Kullanılan Teknolojiler
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** (v15.2.3)
+- **React** (^19.0.0)
+- **React-DOM** (^19.0.0)
+- **React Icons** (^5.5.0)
+- **React Parallax Tilt** (^1.7.287)
+- **React Type Animation** (^3.2.0)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Özellikler
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Tamamen duyarlı tasarım**: Tüm cihazlarda sorunsuz bir deneyim için tasarlandı.
+- **Etkileşimli animasyonlar**: React Type Animation ve React Parallax Tilt ile güçlendirilmiş animasyonlar.
+- **Modern UI/UX tasarımı**: Kullanılabilirlik ve estetiğe odaklanılmıştır.
+- **Kolay navigasyon**: Projelerim, becerilerim ve daha fazlasını keşfetmek için kolay gezinme.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Kullanılan Teknolojiler ve Kütüphaneler
 
-## Learn More
+### **Next.js** (v15.2.3)
+Next.js, React tabanlı, modern web uygulamaları geliştirmek için kullanılan bir framework'tür. Sunucu tarafı render (SSR) ve statik site üretimi (SSG) gibi özellikleri ile SEO dostu ve performans odaklı projeler oluşturmanıza imkan tanır. Bu proje, Next.js kullanılarak geliştirilmiştir ve hızlı sayfa yükleme süreleri ve güçlü geliştirme deneyimi sunar.
 
-To learn more about Next.js, take a look at the following resources:
+### **React** (^19.0.0)
+React, kullanıcı arayüzleri oluşturmak için kullanılan bir JavaScript kütüphanesidir. Bileşen tabanlı mimarisi sayesinde yeniden kullanılabilir ve sürdürülebilir kod yazmayı sağlar. Bu proje, etkileşimli ve dinamik kullanıcı arayüzleri oluşturmak için React kullanılarak geliştirilmiştir.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### **React-DOM** (^19.0.0)
+React-DOM, React bileşenlerinin HTML'e dönüşmesini sağlayan kütüphanedir. React ile yazılan uygulamaların web tarayıcılarında doğru bir şekilde çalışmasını sağlar. React ve React-DOM birbirini tamamlayan iki ana kütüphanedir.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### **React Icons** (^5.5.0)
+React Icons, uygulamanızda ikonları kolayca kullanmanızı sağlayan bir React kütüphanesidir. Font Awesome, Material Design, Bootstrap ve diğer popüler ikon setlerinden ikonları tek bir paket içinde sağlar. Bu projede, kullanıcı arayüzünde ikonları rahatça entegre etmek için React Icons kullanılmıştır.
 
-## Deploy on Vercel
+### **React Parallax Tilt** (^1.7.287)
+React Parallax Tilt, web sayfalarındaki öğelere parallax efekti ekleyen bir kütüphanedir. Bu efekt, kullanıcının fare hareketlerine göre öğelerin farklı hızlarda kayarak hareket etmesini sağlar. Bu sayede daha dinamik ve etkileşimli bir kullanıcı deneyimi sunulur. Bu projede, görseller ve öğelere hareketlilik katmak için React Parallax Tilt kullanılmıştır.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### **React Type Animation** (^3.2.0)
+React Type Animation, yazı animasyonları oluşturmanıza olanak sağlayan bir React kütüphanesidir. Bu kütüphane, metinlerin yazılış animasyonları ile dinamik efektler eklemenizi sağlar. Bu projede, başlıklar ve açıklamalar gibi metin öğelerine yazı animasyonları eklemek için kullanılmıştır.
