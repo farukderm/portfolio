@@ -37,3 +37,9 @@ React Parallax Tilt, web sayfalarındaki öğelere parallax efekti ekleyen bir k
 
 ### **React Type Animation** (^3.2.0)
 React Type Animation, yazı animasyonları oluşturmanıza olanak sağlayan bir React kütüphanesidir. Bu kütüphane, metinlerin yazılış animasyonları ile dinamik efektler eklemenizi sağlar. Bu projede, başlıklar ve açıklamalar gibi metin öğelerine yazı animasyonları eklemek için kullanılmıştır.
+
+#   Ekran Görüntüsü
+
+
+https://github.com/user-attachments/assets/da8fcbcc-1322-4be7-9b62-04cd48420cbf
+
