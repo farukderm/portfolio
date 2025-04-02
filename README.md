@@ -2,14 +2,6 @@
 
 Portföyüme hoş geldiniz! Bu proje, Full Stack Geliştirici olarak sahip olduğum beceri ve deneyimleri sergileyen kişisel bir portföy sitesidir. Bu portföyde, üzerinde çalıştığım projeleri keşfedebilir, benimle iletişime geçebilir ve yazılım geliştirme yolculuğum hakkında daha fazla bilgi edinebilirsiniz.
 
-## Kullanılan Teknolojiler
-
-- **Next.js** (v15.2.3)
-- **React** (^19.0.0)
-- **React-DOM** (^19.0.0)
-- **React Icons** (^5.5.0)
-- **React Parallax Tilt** (^1.7.287)
-- **React Type Animation** (^3.2.0)
 
 ## Özellikler
 
