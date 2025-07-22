@@ -33,8 +33,7 @@ React Type Animation, yazı animasyonları oluşturmanıza olanak sağlayan bir 
 #   Ekran Görüntüsü
 
 
-https://github.com/user-attachments/assets/da8fcbcc-1322-4be7-9b62-04cd48420cbf
-![admindashboard](https://github.com/user-attachments/assets/76494fd1-0d53-43bc-9c48-9faeacd86fa2)
+![portfolio](https://github.com/user-attachments/assets/5fa3672e-f1d6-4eec-85c7-c1562013aa02)
 
 
 
